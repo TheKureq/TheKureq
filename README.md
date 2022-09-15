@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheKureq
-- 👀 I’m interested in a lot of things for eg. robotics, frontend development
+- 👀 I’m interested in a lot of things for eg. robotics, frontend web development
 - 🌱 I’m currently learning java script programing language
 - 📫 you can reach me by email: m.kurek200@gmail.com
 
