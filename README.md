@@ -25,7 +25,7 @@ Next Technologies:
 
 ===========
 
-My hobby projects you can find on my creator instagram:
+You can find my hobby projects on my creator instagram:
 - [https://www.instagram.com/kurek_the_creator/](https://www.instagram.com/kurek_workshop/)
 
 Technologies:
