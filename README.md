@@ -39,6 +39,7 @@ Technologies:
 Next Technologies:
 ➖ Python
 ➖ OpenCV / C++
+➖ Machine learning
 
 ===========
 
