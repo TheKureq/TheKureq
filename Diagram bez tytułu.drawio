@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T21:02:37.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.3" etag="L1AP4IV0JE3kiGvXAYWA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T21:20:19.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.3" etag="WnV0ZKeUDWxuiZUIpeZn" type="github">
   <diagram id="wU-MZU1ki5H1QDvkkrNs" name="Strona-1">
-    <mxGraphModel dx="514" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,55 +131,58 @@
           <mxGeometry x="600" y="629.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-33" value="HTML / CSS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="80" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-34" value="JS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="210" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-35" value="NPM / GIT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-36" value="BOOTSTRAP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="474" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-38" value="&lt;font color=&quot;#050505&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Web Stack&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="90" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-39" value="GULP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="80" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-40" value="SASS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="210" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-41" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="340" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-42" value="RWD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
-          <mxGeometry x="474" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NCf4MELzwFDsRm1iRGMm-43" value="Figma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-44" value="React" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-45" value="TypeScript" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NCf4MELzwFDsRm1iRGMm-46" value="Node.Js" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="349" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-47" value="Rest Api" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-48" value="Next.js" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-49" value="&lt;font color=&quot;#050505&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Personal Road Map&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="369" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NCf4MELzwFDsRm1iRGMm-50" value="Redux" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCf4MELzwFDsRm1iRGMm-51" value="Figma / mockups" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCf4MELzwFDsRm1iRGMm-52" value="Node.Js" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCf4MELzwFDsRm1iRGMm-53" value="EMMET" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
