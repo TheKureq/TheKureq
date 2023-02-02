@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheKureq
-- 👀 I’m interested in a lot of things for eg. robotics, frontend web development
+- 👀 I’m interested in robotics, frontend web development
 - 🌱 I’m currently learning java script / react ⚛
 - 📫 you can reach me by email: m.kurek200@gmail.com
 
@@ -24,6 +24,9 @@ Next Technologies:
 📢 SEO
 
 ===========
+
+Next project:
+🟥 Netflix copy (React.js)
 
 You can find my hobby projects on my creator instagram:
 - [https://www.instagram.com/kurek_the_creator/](https://www.instagram.com/kurek_workshop/)
