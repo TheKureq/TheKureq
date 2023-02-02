@@ -16,12 +16,12 @@ Technologies:
 🟢 SQL
 🥤  Gulp / npm
 📱   Responsive web design
+📢 SEO
 
 Next Technologies:
 ⚛ React
 🟦 TypeScript
 🟩 Node.js
-📢 SEO
 
 ===========
 
