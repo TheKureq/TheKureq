@@ -29,7 +29,7 @@ Next project:
 🟥 Netflix copy (React.js)
 
 You can find my hobby projects on my creator instagram:
-- [https://www.instagram.com/kurek_the_creator/](https://www.instagram.com/kurek_workshop/)
+- https://www.instagram.com/kurek_workshop/
 
 Technologies:
 ✔ C++
