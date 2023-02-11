@@ -18,15 +18,17 @@ Technologies:
 📱   Responsive web design
 📢 SEO
 
-Next Technologies:
+Learning:
 ⚛ React
+
+Next Technologies:
 🟦 TypeScript
 🟩 Node.js
 
-===========
-
 Next project:
 🟥 Netflix copy (React.js)
+
+===========
 
 You can find my hobby projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
