@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheKureq
+- 👋 Hi, I’m @TheKureq - Michał Kurek
 - 👀 I’m interested in robotics, frontend web development
 - 🌱 I’m currently learning java script / react ⚛
 - 📫 you can reach me by email: m.kurek200@gmail.com
