@@ -12,9 +12,8 @@
 - https://www.instagram.com/kurek_workshop/
 
 <p align="center">
-| Hexapod             |  Moody check repo |
-:-------------------------:|:-------------------------:
-|<img src="./Robot_1.jpg" width="300" height="450" />|<img src="./Robot_2.png" width="300" height="450" />|
+<img src="./Robot_1.jpg" width="300" height="450" />
+<img src="./Robot_2.png" width="300" height="450" />
 </p>
 
 #### Technologies:
