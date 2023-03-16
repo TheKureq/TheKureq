@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @TheKureq - Michał Kurek
-- 👀 I’m interested in robotics, frontend web development
-- 🌱 I’m currently learning Python OpenCV with Deep learning and react ⚛
-- 📫 you can reach me by email: m.kurek200@gmail.com
+## Basic Info
 
-===========
+👋 Hi, I’m @TheKureq - Michał Kurek
+👀 I’m interested in robotics, frontend web development
+🌱 I’m currently learning Python OpenCV with Deep learning and react ⚛
+📫 you can reach me by email: m.kurek200@gmail.com
+
 
 ## Robotics / Software developer
 
@@ -36,8 +37,6 @@
 ➖ Inverse kinematics
 
 
-===========
-
 ## Frontend developer
 
 #### For web development i use those technologies.
@@ -63,7 +62,6 @@
 #### Next project:
 🟥 Netflix copy (React.js)
 
-===========
 
 
 
