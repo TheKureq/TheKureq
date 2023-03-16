@@ -12,21 +12,21 @@
 - https://www.instagram.com/kurek_workshop/
 
 <p align="Left">
+  <span>
+    #### DevStack:
+    | Technologies | Next Technologies |
+    | ------ | ------ |
+    | C++ | OpenCV Python, C++ |
+    | C | Machine learning |
+    | Python | Inverse kinematics |
+    | ST | === |
+    | LAD | === |
+    | CAD | === |
+    | Gcode | === |
+  </span>
 <img src="./Robot_1.jpg" width="200" height="300" />
 <img src="./Robot_2.png" width="200" height="300" />
 </p>
-
-#### DevStack:
-
-| Technologies | Next Technologies |
-| ------ | ------ |
-| C++ | OpenCV Python, C++ |
-| C | Machine learning |
-| Python | Inverse kinematics |
-| ST | === |
-| LAD | === |
-| CAD | === |
-| Gcode | === |
 
 
 ## Frontend developer
