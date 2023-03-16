@@ -14,7 +14,7 @@
 
 | Hexapod             |  Moody check repo |
 :-------------------------:|:-------------------------:
-|<img src="./Robot_1.png" width="460" height="300" />|<img src="./Robot_2.png" width="460" height="300" />|
+|<img src="./Robot_1.png" width="300" height="450" />|<img src="./Robot_2.png" width="300" height="450" />|
 
 
 #### Technologies:
