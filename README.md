@@ -7,12 +7,12 @@
 
 
 ## Robotics / Software developer
-<img align="right" src="./Robot_1.jpg" width="250" height="350" />
-<img align="right" src="./Robot_2.png" width="250" height="350" />
 
 #### You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
+<img align="right" src="./Robot_1.jpg" width="250" height="350" />
+<img align="right" src="./Robot_2.png" width="250" height="350" />
 
 #### DevStack:
 | Technologies | Next Technologies |
