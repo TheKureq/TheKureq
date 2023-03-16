@@ -11,7 +11,8 @@
 #### You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
-<img align="right" src="./Robot_1.jpg" width="200" height="300" />
+<img align="right" src="./Robot_1.jpg" width="300" height="400" />
+<img align="right" src="./Robot_2.png" width="300" height="400" />
 
 #### DevStack:
 | Technologies | Next Technologies |
