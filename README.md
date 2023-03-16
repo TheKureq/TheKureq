@@ -5,10 +5,12 @@
 
 ===========
 
-You can find my Robotics projects on my creator instagram:
+## Robotics / Software developer
+
+####You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
-Technologies:
+####Technologies:
 
 ✔ C++
 
@@ -25,7 +27,7 @@ Technologies:
 ✔ Python
 
 
-Next Technologies:
+####Next Technologies:
 
 ➖ OpenCV / C++, Python
 
@@ -36,9 +38,11 @@ Next Technologies:
 
 ===========
 
-For web development i use those technologies.
+## Frontend developer
 
-Technologies:
+####For web development i use those technologies.
+
+####Technologies:
 🟡 JavaScript
 🔵 CSS
 🟠 HTML
@@ -49,14 +53,14 @@ Technologies:
 📱   Responsive web design
 📢 SEO
 
-Learning:
+####Learning:
 ⚛ React
 
-Next Technologies:
+####Next Technologies:
 🟦 TypeScript
 🟩 Node.js
 
-Next project:
+####Next project:
 🟥 Netflix copy (React.js)
 
 ===========
