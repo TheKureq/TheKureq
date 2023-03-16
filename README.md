@@ -12,7 +12,9 @@
 - https://www.instagram.com/kurek_workshop/
 
 
-![336603646_1263353334260737_71397804681158206_n](https://user-images.githubusercontent.com/81649868/225700227-3b8b5df2-d595-4ccd-8521-c0d759a9baea.jpg)
+| Hexapod             |  Moody check repo |
+:-------------------------:|:-------------------------:
+|<img src="./Robot_1.png" width="460" height="300" />|<img src="./Robot_2.png" width="460" height="300" />|
 
 
 #### Technologies:
