@@ -9,18 +9,30 @@ You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
 Technologies:
+
 ✔ C++
+
 ✔ C
+
 ✔ LAD
+
 ✔ ST
+
 ✔ Gcode
+
 ✔ CAD
+
 ✔ Python
 
+
 Next Technologies:
+
 ➖ OpenCV / C++, Python
+
 ➖ Machine learning
+
 ➖ Inverse kinematics
+
 
 ===========
 
