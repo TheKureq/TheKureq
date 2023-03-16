@@ -1,7 +1,26 @@
 - 👋 Hi, I’m @TheKureq - Michał Kurek
 - 👀 I’m interested in robotics, frontend web development
-- 🌱 I’m currently learning java script / react ⚛
+- 🌱 I’m currently learning Python OpenCV with Deep learning and react ⚛
 - 📫 you can reach me by email: m.kurek200@gmail.com
+
+===========
+
+You can find my Robotics projects on my creator instagram:
+- https://www.instagram.com/kurek_workshop/
+
+Technologies:
+✔ C++
+✔ C
+✔ LAD
+✔ ST
+✔ Gcode
+✔ CAD
+✔ Python
+
+Next Technologies:
+➖ OpenCV / C++, Python
+➖ Machine learning
+➖ Inverse kinematics
 
 ===========
 
@@ -30,23 +49,7 @@ Next project:
 
 ===========
 
-You can find my hobby projects on my creator instagram:
-- https://www.instagram.com/kurek_workshop/
 
-Technologies:
-✔ C++
-✔ C
-✔ LAD
-✔ ST
-✔ Gcode
-✔ CAD
-
-Next Technologies:
-➖ Python
-➖ OpenCV / C++
-➖ Machine learning
-
-===========
 
 <!---
 TheKureq/TheKureq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
