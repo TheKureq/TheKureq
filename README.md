@@ -16,6 +16,16 @@
 <img src="./Robot_2.png" width="300" height="450" />
 </p>
 
+| Technologies | Next Technologies |
+| ------ | ------ |
+| C++ | OpenCV Python, C++ |
+| C | Machine learning |
+| Python | Inverse kinematics |
+| ST | === |
+| LAD | === |
+| CAD | === |
+| Gcode | === |
+
 #### Technologies:
 - ✔ C++
 - ✔ C
