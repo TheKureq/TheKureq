@@ -10,6 +10,7 @@
 
 #### You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
+<img align="right" width="100" height="100" src=![336603646_1263353334260737_71397804681158206_n](https://user-images.githubusercontent.com/81649868/225699669-772ac9cc-296f-431d-9df5-946a4f1bdf54.jpg)>
 
 #### Technologies:
 - ✔ C++
