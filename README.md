@@ -1,9 +1,9 @@
 ## Basic Info
 
-👋 Hi, I’m @TheKureq - Michał Kurek
-👀 I’m interested in robotics, frontend web development
-🌱 I’m currently learning Python OpenCV with Deep learning and react ⚛
-📫 you can reach me by email: m.kurek200@gmail.com
+- 👋 Hi, I’m @TheKureq - Michał Kurek
+- 👀 I’m interested in robotics, frontend web development
+- 🌱 I’m currently learning Python OpenCV with Deep learning and react ⚛
+- 📫 you can reach me by email: m.kurek200@gmail.com
 
 
 ## Robotics / Software developer
@@ -12,29 +12,19 @@
 - https://www.instagram.com/kurek_workshop/
 
 #### Technologies:
-
-✔ C++
-
-✔ C
-
-✔ LAD
-
-✔ ST
-
-✔ Gcode
-
-✔ CAD
-
-✔ Python
+- ✔ C++
+- ✔ C
+- ✔ LAD
+- ✔ ST
+- ✔ Gcode
+- ✔ CAD
+- ✔ Python
 
 
 #### Next Technologies:
-
-➖ OpenCV / C++, Python
-
-➖ Machine learning
-
-➖ Inverse kinematics
+- ➖ OpenCV / C++, Python
+- ➖ Machine learning
+- ➖ Inverse kinematics
 
 
 ## Frontend developer
@@ -42,25 +32,25 @@
 #### For web development i use those technologies.
 
 #### Technologies:
-🟡 JavaScript
-🔵 CSS
-🟠 HTML
-🔴 SASS
-🟣 Bootstrap
-🟢 SQL
-🥤  Gulp / npm
-📱   Responsive web design
-📢 SEO
+- 🟡 JavaScript
+- 🔵 CSS
+- 🟠 HTML
+- 🔴 SASS
+- 🟣 Bootstrap
+- 🟢 SQL
+- 🥤  Gulp / npm
+- 📱   Responsive web design
+- 📢 SEO
 
 #### Learning:
-⚛ React
+- ⚛ React
 
 ###Next Technologies:
-🟦 TypeScript
-🟩 Node.js
+- 🟦 TypeScript
+- 🟩 Node.js
 
 #### Next project:
-🟥 Netflix copy (React.js)
+- 🟥 Netflix copy (React.js)
 
 
 
