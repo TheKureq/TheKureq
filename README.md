@@ -11,8 +11,11 @@
 #### You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
-#### One of project Im working on - Hexapod
+#### One of the projects Im working on - Hexapod and Computer Vision
+<p align='center'>
 <img src="./Robot_3.png" width="375" height="260" />
+<img src="./Project_cv.gif" width="375" height="260" />
+</p>
 
 
 #### DevStack:
