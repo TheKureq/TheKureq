@@ -24,8 +24,8 @@
 | C++ | OpenCV Python, C++ |
 | C | Machine learning |
 | Python | Inverse kinematics |
-| ST | === |
-| LAD | === |
+| ST | OpenGL |
+| LAD | OpenCL, Cuda |
 | CAD | === |
 | Gcode | === |
 
