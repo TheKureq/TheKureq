@@ -11,9 +11,6 @@
 
 ## Robotics / Software developer
 
-### You can find my Robotics projects on my creator instagram:
-- https://www.instagram.com/kurek_workshop/
-
 ### One of the projects Im working on - Hexapod and Computer Vision
 <p align='center'>
 <img src="./Robot_3.png" width="375" height="260" />
@@ -21,7 +18,7 @@
 </p>
 
 
-### Skils:
+### Skils and technologies:
 <div align="center">
   
 | Technologies | Next Technologies |
@@ -36,22 +33,27 @@
   
 </div>
 
+
+You can also find my Robotics projects on my creator instagram:
+- https://www.instagram.com/kurek_workshop/
+
 ## Frontend developer
 
-### Skils
+### Skils and technologies:
 <div align="center">
   
 | Technologies | Next Technologies |
 | ------ | ------ |
-| 🟡 JavaScript | ⚛ React |
-| 🔵 CSS | 🟦 TypeScript |
-| 🟠 HTML | 🟩 Node.js |
-| 🔴 SASS | === |
-| 🟣 Bootstrap | === |
-| 🟢 SQL | === |
-| 🥤  Gulp / npm | === |
-| 📱   Responsive web design | === |
-| 📢 SEO | === |
+| JavaScript | React |
+| CSS | TypeScript |
+| HTML | Node.js |
+| SASS | === |
+| Bootstrap | === |
+| SQL | === |
+| Gulp / npm | === |
+| RWD | === |
+| SEO | === |
+| BEM | === |
   
 </div>
 
