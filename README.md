@@ -1,4 +1,6 @@
-## Basic Info
+# Hello! 😀
+
+## General
 
 - 👋 Hi, I’m @TheKureq - Michał Kurek
 - 👀 I’m interested in robotics, frontend web development
