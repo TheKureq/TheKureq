@@ -23,7 +23,7 @@ You can also find my Robotics projects on my creator instagram:
 <div align="center">
 
 <table>
-<tr><th>Robotics / Software developer </th><th>Frontend developer</th></tr>
+<tr><th>Robotics / Software developer </th><th></th><th>Frontend developer</th></tr>
 <tr><td>
 
 | Technologies | Next Technologies |
@@ -39,7 +39,8 @@ You can also find my Robotics projects on my creator instagram:
 | LAD | OpenCL, Cuda |    
 
 </td><td>
-
+</td><td>
+  
 | Technologies | Next Technologies |
 | ------ | ------ |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
