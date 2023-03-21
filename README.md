@@ -6,7 +6,10 @@
 - 👀 I’m interested in robotics, frontend web development
 - 🌱 I’m currently learning Python 🐍 OpenCV with Deep learning and react ⚛
 - 📫 you can reach me by email: m.kurek200@gmail.com
-- ⚔  in my free time, I have started to solve challenges on codewars https://www.codewars.com/users/TheKureq
+- ⚔  in my free time, I have started to solve challenges on codewars <a href="https://www.codewars.com/users/TheKureq">
+  <img src="https://www.codewars.com/users/TheKureq/badges/micro"/>
+</a>
+
 
 
 ## Robotics / Software developer
