@@ -9,17 +9,19 @@
 
 ## Robotics / Software developer
 
-#### You can find my Robotics projects on my creator instagram:
+### You can find my Robotics projects on my creator instagram:
 - https://www.instagram.com/kurek_workshop/
 
-#### One of the projects Im working on - Hexapod and Computer Vision
+### One of the projects Im working on - Hexapod and Computer Vision
 <p align='center'>
 <img src="./Robot_3.png" width="375" height="260" />
 <img src="./Project_cv.gif" width="375" height="260" />
 </p>
 
 
-#### DevStack:
+### Skils:
+<div align="center">
+  
 | Technologies | Next Technologies |
 | ------ | ------ |
 | C++ | OpenCV Python, C++ |
@@ -27,14 +29,16 @@
 | Python | Inverse kinematics |
 | ST | OpenGL |
 | LAD | OpenCL, Cuda |
-| CAD | === |
-| Gcode | === |
-
+| CAD | ROS |
+| Gcode | Linux |
+  
+</div>
 
 ## Frontend developer
 
-#### WebStack
-
+### Skils
+<div align="center">
+  
 | Technologies | Next Technologies |
 | ------ | ------ |
 | 🟡 JavaScript | ⚛ React |
@@ -46,9 +50,10 @@
 | 🥤  Gulp / npm | === |
 | 📱   Responsive web design | === |
 | 📢 SEO | === |
+  
+</div>
 
-
-#### Next project:
+### Next project:
 - 🟥 Netflix copy (React.js)
 
 
