@@ -23,7 +23,7 @@ You can also find my Robotics projects on my creator instagram:
 <div align="center">
 
 <table>
-<tr><th>Robotics / Software developer </th><th></th><th>Frontend developer</th></tr>
+<tr><th>Robotics / Software developer </th><th></th><th>Web developer</th></tr>
 <tr><td>
 
 | Technologies | Next Technologies |
