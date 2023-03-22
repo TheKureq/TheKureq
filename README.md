@@ -34,9 +34,10 @@ You can also find my Robotics projects on my creator instagram:
 | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) |
 | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | CAD | ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) |
-| Gcode | C++ OOP |
+| Gcode | https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white |
 | ST | Inverse kinematics |
-| LAD | OpenCL, Cuda |    
+| LAD | OpenCL, Cuda |
+|  | OOP C++ |  
 
 </td><td>
 </td><td>
@@ -50,7 +51,7 @@ You can also find my Robotics projects on my creator instagram:
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |  |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |  |
 | ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |  |
-| RWD |  |
+| RWD | https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white |
 | SEO |  |
 | BEM |  |
 
