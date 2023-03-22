@@ -58,6 +58,7 @@ You can also find my Robotics projects on my creator instagram:
 </td></tr> </table>
 </div>
 
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username={thekureq})
 
 <!---
 TheKureq/TheKureq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
