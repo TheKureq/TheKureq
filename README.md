@@ -15,6 +15,7 @@
 <img src="./Robot_3.png" width="375" height="260" />
 <img src="./Project_cv.gif" width="375" height="260" />
 <img src="./Hexapod.gif" width="375" height="260" />
+<img src="./hexapod_standup.gif" width="375" height="260" />
 </p>
 
 You can also find my Robotics projects on my creator instagram:
