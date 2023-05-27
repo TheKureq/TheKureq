@@ -14,8 +14,8 @@
 <p align='center'>
 <img src="./hexapod_pushups.gif" width="375" height="260" />
 <img src="./Project_cv.gif" width="375" height="260" />
-<img src="./Hexapod.gif" width="375" height="260" />
-<img src="./hexapod_standup.gif" width="375" height="260" />
+<img src="./hexapod_tripod (2).gif" width="375" height="260" />
+<img src="./hexapod_walk.gif" width="375" height="260" />
 </p>
 
 You can also find my Robotics projects on my creator instagram:
