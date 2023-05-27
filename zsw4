@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T12:06:40.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" version="21.2.9" etag="zE_UeL_88l7eFn4Q3_CM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T12:23:43.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="ChUjhztCBrbBdDoQUTcw" version="21.2.9" type="github">
   <diagram name="Strona-1" id="h54f1HWd_amom_eXgluk">
-    <mxGraphModel>
+    <mxGraphModel dx="1887" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-1" target="ZzFC6SeHFvECKB8Kg0L_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-1" value="Wybór zleceń gdzie,&lt;br&gt;t1 &amp;lt;= t2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-2" target="ZzFC6SeHFvECKB8Kg0L_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-2" value="Porządkowanie wybranych zleceń&amp;nbsp; w kolejności niemalejących t1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-3" target="ZzFC6SeHFvECKB8Kg0L_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-3" value="Resztę zleceń uporządkować w kolejności nierosnących t2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-4" value="Wyznaczoną kolejność zastosować dla wszystkich maszyn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-8" value="Algorytm Johnsona&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-16" value="Algorytm własny" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-21" target="ZzFC6SeHFvECKB8Kg0L_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-21" value="Wybór zleceń środka zleceń, jeżeli l. zleceń jest parzysta, zaczynamy od zadania o mniejszym numerze" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-23" target="ZzFC6SeHFvECKB8Kg0L_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-23" value="dobór kolejnych zadań raz z lewej strony (osi - środka), raz z prawej, od środka do zewnątrz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFC6SeHFvECKB8Kg0L_-25" target="ZzFC6SeHFvECKB8Kg0L_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-25" value="Powtórzenie poprzedniego kroku do momentu uwzględnienia wszysktich zleceń" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFC6SeHFvECKB8Kg0L_-26" value="Wyznaczoną kolejność zastosować dla wszystkich maszyn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
