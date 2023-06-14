@@ -3,11 +3,9 @@
 ## General
 
 - 👋 Hi, I’m @TheKureq - Michał Kurek
-- 👀 I’m interested in robotics, frontend web development
-- 🌱 I’m currently learning Python 🐍 OpenCV with Deep learning and react ⚛
+- 👀 I’m interested in roboticsa and frontend web development
+- 🌱 I’m currently learning OpenCV with Deep learning and ROS2
 - 📫 you can reach me by email: m.kurek200@gmail.com
-- ⚔  in my free time, I have started to solve challenges on codewars <a href="https://www.codewars.com/users/TheKureq">
-  <img src="https://www.codewars.com/users/TheKureq/badges/micro"/>
 </a>
 
 ## One of the projects Im working on - Hexapod and Computer Vision
