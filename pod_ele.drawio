@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T22:47:03.234Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="HTrvDgxVAbuKN8U778pt" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T22:49:34.984Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="XZM0hoQtNjhaUJlBWGAn" version="22.1.15" type="github">
   <diagram name="Page-1" id="szuRNDVLsLvM3TpF7tbm">
     <mxGraphModel dx="2856" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-90" y="165" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="165" width="250" height="210" as="geometry" />
+          <mxGeometry x="280" y="165" width="480" height="485" as="geometry" />
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-2" value="&lt;div&gt;Sterownik 5-cio osiowy CNC&lt;/div&gt;&lt;div&gt;&quot;5Axis Breakout Board&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="190" height="80" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry x="-60" y="230" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-5" value="Rozdzielnica elektryczna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="306" y="180" width="200" height="30" as="geometry" />
+          <mxGeometry x="420" y="180" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-7" value="Panel operatorski" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-60" y="180" width="200" height="30" as="geometry" />
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-9" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="220" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0a7FApHj3BCXqNyQYN4L-12" value="Sterownik silnika &lt;br&gt;serwo-krokowego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
