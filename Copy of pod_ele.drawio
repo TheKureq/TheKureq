@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T23:05:59.554Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Uq_b7xckOkRjMoGEjctj" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T23:15:48.370Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="piBsNILggFputOlKEBlo" version="22.1.16" type="github">
   <diagram name="Page-1" id="szuRNDVLsLvM3TpF7tbm">
     <mxGraphModel dx="2603" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="0a7FApHj3BCXqNyQYN4L-3" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Mach3&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;Komputer stacjonarny,&lt;/div&gt;&lt;div&gt;Windows7x32bit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="245" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0a7FApHj3BCXqNyQYN4L-5" value="Rozdzielnica elektryczna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0a7FApHj3BCXqNyQYN4L-5" value="Warstwa ukryta&lt;br&gt;Rozdzielnica elektryczna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0a7FApHj3BCXqNyQYN4L-7" value="Warstwa wejsciowa &lt;b&gt;&lt;br&gt;Stanowisko operatorskie&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
